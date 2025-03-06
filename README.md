@@ -1,6 +1,6 @@
 # Desafio da bolsa da ONE com ALURA
 
-- 📜 Para praticar conceitos fundamentais e iniciais de lógica de programação
+- 📜 Deixei esse projeto publico apenas para a equipe da Alura visualizar
 
 
 ## 🚀 Funcionalidades 
